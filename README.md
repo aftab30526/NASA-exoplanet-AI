@@ -1,7 +1,7 @@
 NASA EXOAI EXPLORER - QUICK START GUIDE
 
 1. LIVE DEMO:
-   URL: https://huggingface.co/spaces/aftab62503/NASA-exoplanet-detector
+   URL: https://huggingface.co/spaces/aftab62503/NASA_project
 
 2. HOW TO USE:
    - Open the Live Demo URL
